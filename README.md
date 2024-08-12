@@ -16,7 +16,7 @@ The Housie Game App is a digital version of the popular game Housie (or Bingo). 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/housie-game-app.git
+   git clone https://github.com/TendulkarBudida/Housie.git
 
 How to Use
 Start the Game: Upon launching the app, click the "Start" button to begin the random number announcements.

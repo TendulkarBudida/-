@@ -1,5 +1,3 @@
-# Create a README.md file with the provided content
-
 # Housie Game App
 
 ## Overview

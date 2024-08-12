@@ -17,11 +17,11 @@ The Housie Game App is a digital version of the popular game Housie (or Bingo). 
    ```bash
    git clone https://github.com/TendulkarBudida/Housie.git
 
-How to Use
-Start the Game: Upon launching the app, click the "Start" button to begin the random number announcements.
+## How to Use
+- **Start the Game**: Upon launching the app, click the "Start" button to begin the random number announcements.
 
-Pause/Resume: Use the "Pause" button to pause the game and the "Resume" button to continue.
+- **Pause/Resume**: Use the "Pause" button to pause the game and the "Resume" button to continue.
 
-Repeat Last Numbers: Click on "Repeat Last 5" or "Repeat Last 10" to hear the most recent numbers announced.
+- **Repeat Last Numbers**: Click on "Repeat Last 5" or "Repeat Last 10" to hear the most recent numbers announced.
 
-Adjust Speed: Use the speed control slider or dropdown to adjust the speed of number announcements to your preference.
+- **Adjust Speed**: Use the speed control slider or dropdown to adjust the speed of number announcements to your preference.

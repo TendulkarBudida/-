@@ -1,6 +1,5 @@
 # Create a README.md file with the provided content
 
-readme_content = """
 # Housie Game App
 
 ## Overview

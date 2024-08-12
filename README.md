@@ -1,16 +1,19 @@
-# housie
+# Create a README.md file with the provided content
 
-A new Flutter project.
+readme_content = """
+# Housie Game App
 
-## Getting Started
+## Overview
+The Housie Game App is a digital version of the popular game Housie (or Bingo). This app is designed to randomly announce numbers between 1 and 90 until all numbers are called. It includes features such as pausing and resuming the game, repeating the last 5 or 10 numbers, and adjusting the speed of number announcements.
 
-This project is a starting point for a Flutter application.
+## Features
+- **Random Number Announcements**: The app randomly selects and announces numbers between 1 and 90, ensuring a fair game.
+- **Pause/Resume Functionality**: Players can pause the game at any time and resume it later without losing progress.
+- **Repeat Last Numbers**: The app allows players to hear the last 5 or 10 numbers that were announced.
+- **Adjustable Speed**: Users can adjust the speed at which numbers are announced, making the game suitable for different playing styles and audiences.
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/housie-game-app.git
